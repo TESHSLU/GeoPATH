@@ -1,0 +1,1 @@
+In this folder all the placement data should be stored. A .parquet format is required.
