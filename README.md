@@ -10,23 +10,40 @@ The framework was developed within the SWEET PATHFNDR and WinTES projects. Its c
 Install the required Python packages using pip:
 
 pip install numpy
+
 pip install pandas
+
 pip install geopandas
+
 pip install matplotlib
+
 pip install shapely
+
 pip install tqdm
+
 pip install seaborn
+
 pip install networkx
+
 pip install pyproj
+
 pip install folium
+
 pip install pyvis
+
 pip install contextily
+
 pip install scipy
+
 pip install pyarrow
 
+
 (Optional but recommended for large datasets)
+
 pip install rioxarray
+
 pip install dask-geopandas
+
 
 # 2. Basic User Inputs
 
